@@ -1,4 +1,4 @@
-"""Entry point for project_name."""
+"""Entry point for health_data_processor."""
 
 from .cli import main  # pragma: no cover
 

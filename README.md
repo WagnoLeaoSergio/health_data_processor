@@ -1,9 +1,6 @@
 # health_data_processor
 
-[![codecov](https://codecov.io/gh/WagnoLeaoSergio/health_data_processor/branch/main/graph/badge.svg?token=health_data_processor_token_here)](https://codecov.io/gh/WagnoLeaoSergio/health_data_processor)
-[![CI](https://github.com/WagnoLeaoSergio/health_data_processor/actions/workflows/main.yml/badge.svg)](https://github.com/WagnoLeaoSergio/health_data_processor/actions/workflows/main.yml)
-
-Awesome health_data_processor created by WagnoLeaoSergio
+Conversor do CSV gerado pelo monitoramento da aplicação Android para o formato utilizado no sistema implementado no TCC.
 
 ## Install it from PyPI
 
